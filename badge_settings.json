@@ -1,0 +1,23 @@
+{
+  "badge_width": "93",
+  "badge_height": "50",
+  "margin_x": "1",
+  "margin_y": "1",
+  "spacing_x": "1",
+  "spacing_y": "1",
+  "cut_margin": "3",
+  "student_color": "#ff1509",
+  "student_font_path": null,
+  "name_area": [
+    498,
+    173,
+    902,
+    260
+  ],
+  "position_area": [
+    510,
+    272,
+    899,
+    344
+  ]
+}
